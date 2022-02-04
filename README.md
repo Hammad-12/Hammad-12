@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Hammad Ahmed
 #### A Machine Learning Passionate
-I am Hammad Ahmed from Pakistan. I recently graduate from CEME Nust Rawalpindi. My interests include machine learning, computer vision, and deep learning. I like looking patterns and signals in the data. Moreover I like swimming, gym, cycling and outing. You can also contact me at [linkedin](https://www.linkedin.com/in/hammadhameed/).
-
+A life long learner and an effective communicator with interests in Data Science /Analytics and Machine Learning. I love looking patterns in the data and come up with meaningful insights that can have positive impact for the organization as well as society. I am fluent and capable of constructing   complete data science pipeline from extracting the data to exploring the data, visualizing, cleaning and predicting. I possess a good understanding of data querying using SQL and analyzing the data through Python and Power Bi. I am a strong believer of hard work, technique and team work. Moreover I love jogging and swimming.
 #### Skills: SQL, Python, C++ Pandas, Scikit-learn, Seaborn, Tensorflow
