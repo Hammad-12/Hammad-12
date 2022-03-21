@@ -5,6 +5,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/hammadhameed).
 #### Skills: 
 - SQL
 - Power Bi
+- DAX 
 - Python
 - C++
 - Pandas
